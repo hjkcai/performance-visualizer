@@ -1401,6 +1401,11 @@
   resolved "https://registry.npm.taobao.org/@types/events/download/@types/events-3.0.0.tgz#2862f3f58a9a7f7c3e78d79f130dd4d71c25c2a7"
   integrity sha1-KGLz9Yqaf3w+eNefEw3U1xwlwqc=
 
+"@types/fabric@^3.6.2":
+  version "3.6.2"
+  resolved "https://registry.npm.taobao.org/@types/fabric/download/@types/fabric-3.6.2.tgz#438e14a2e8a77f73d1a997dfc944c2dff61dbb9a"
+  integrity sha1-Q44Uouinf3PRqZffyUTC3/Ydu5o=
+
 "@types/glob@^7.1.1":
   version "7.1.1"
   resolved "https://registry.npm.taobao.org/@types/glob/download/@types/glob-7.1.1.tgz?cache=0&sync_timestamp=1580841958961&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fglob%2Fdownload%2F%40types%2Fglob-7.1.1.tgz#aa59a1c6e3fbc421e07ccd31a944c30eba521575"
